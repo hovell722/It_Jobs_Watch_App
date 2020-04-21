@@ -7,3 +7,6 @@
  :cat:
 
  :cat:
+:horse:
+:horse:
+/n :bird:
